@@ -1,6 +1,6 @@
 # BootstrapLab-Marvel-themed website
-Student Name: FAN ZHU
-Id: N01648910
+Student Name: FAN ZHU /br
+Id: N01648910 /br
 This project is a practice lab using Bootstrap for building a website. I choose Marvel-theme. 
 As assigment requirements, it setup up with bootstrap via CDN and viewport meta tag; website includes a navigation bar, hero section, services section, portfolio section, contact form and footer (social media icon and copyright).
 
